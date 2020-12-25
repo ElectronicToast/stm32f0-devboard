@@ -1,5 +1,5 @@
 # stm32f0-devboard
-![license](https://img.shields.io/github/license/electronictoast/triumph) ![madewith](https://img.shields.io/badge/made%20with-KiCad-blue)
+![license](https://img.shields.io/github/license/electronictoast/stm32f0-devboard) ![madewith](https://img.shields.io/badge/made%20with-KiCad-blue)
 
 A minimal development board featuring an STM32F030C8T6
 
